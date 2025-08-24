@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # About Me
 
 I'm Shady Nikooei, a Computer Engineering undergraduate student at Razi University, Iran, and a **Digital Image Processing enthusiast**.  
