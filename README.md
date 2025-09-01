@@ -1,6 +1,6 @@
 # About Me
 
-I'm Shady Nikooei, a Computer Engineering undergraduate student at Razi University, Iran, and a **Digital Image Processing enthusiast**.  
+I'm Shady Nikooei, a Computer Engineering student at Razi University, Iran, and a **Digital Image Processing enthusiast**.  
 I focus on applied image and audio processing techniques, particularly in **digital image processing, feature extraction, and computer vision**.  
 
 My main areas of interest and research include:
