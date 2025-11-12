@@ -10,7 +10,7 @@ My main areas of interest and research include:
 - Improving algorithms for image retrieval and feature extraction  
 - Computer Vision  
 - Multimedia security and watermarking  
-
+- Deep Learning(RIFE)
 I also have experience in designing digital systems using Verilog, but my current focus is on improving image feature extraction algorithms and practical computer vision applications.  
 
 Check my [publications_on_Orcid](https://orcid.org/0009-0003-2003-4697) or [linkdin](https://www.linkedin.com/in/shady-nikooei) for more information.
